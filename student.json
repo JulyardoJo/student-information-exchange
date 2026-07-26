@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Raquel",
+        "age": 20,
+        "major": "Informatics",
+        "gpa": 3.75,
+        "is_active": true
+    },
+    {
+        "name": "Anton",
+        "age": 21,
+        "major": "AI Engineering",
+        "gpa": 3.25,
+        "is_active": true
+    },
+    {
+        "name": "Joxra",
+        "age": 21,
+        "major": "Data Science",
+        "gpa": 3.51,
+        "is_active": true
+    }
+]
